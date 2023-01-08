@@ -13,6 +13,10 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF" />
+
+## My GitHub history
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dima-voit&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima-voit&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dima-voit/dima-voit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

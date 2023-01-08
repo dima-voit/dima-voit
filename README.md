@@ -1,7 +1,5 @@
 # Hi, I'm Dmytro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
 ## Some tools I have used and learned
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/CSS3-2EA3D5?style=flat-square&logo=CSS3&logoColor=FFFFFF" /> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=FFFFFF" /> 

@@ -1,3 +1,5 @@
+# Hi, I'm Dmytro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 ## Some tools I have used and learned
@@ -22,7 +24,7 @@
 
 ---
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dima-voit.dima-voit)
+<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/dima-voit/badges/micro" alt="codewars badge micro" /></a> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dima-voit.dima-voit)
 <!--
 **dima-voit/dima-voit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

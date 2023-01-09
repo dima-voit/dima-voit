@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF" />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima-voit&layout=compact&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima-voit&layout=compact&theme=radical&langs_count=6)](https://github.com/dima-voit/github-readme-stats)
 
 ---
 
